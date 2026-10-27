@@ -1,0 +1,6 @@
+{
+  "name": "Nipa AI",
+  "description": "Real-time futuristic voice AI assistant powered by Gemini Live with natural interruption handling and safe browser actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Nipa AI</string>
+    <string name="top_bar_title">NIPA AI ASSISTANT</string>
+    <string name="status_online">ONLINE</string>
+    <string name="status_standby">STANDBY</string>
+    <string name="status_connecting">CONNECTING</string>
+    <string name="status_alert">RECOVERY</string>
+
+    <string name="state_disconnected">Tap to talk</string>
+    <string name="state_connecting">Connecting...</string>
+    <string name="state_listening">Listening</string>
+    <string name="state_thinking">Thinking...</string>
+    <string name="state_speaking">Nipa is speaking</string>
+    <string name="state_error_default">Oops, I lost the connection. Let\'s try that again.</string>
+
+    <string name="sublabel_disconnected">Real-time voice channel ready</string>
+    <string name="sublabel_connecting">Establishing Gemini Live audio link</string>
+    <string name="sublabel_listening">Speak naturally — interrupt anytime</string>
+    <string name="sublabel_thinking">Synthesizing response</string>
+    <string name="sublabel_speaking">Start speaking to interrupt naturally</string>
+    <string name="sublabel_error">Tap the microphone or retry to reconnect</string>
+
+    <string name="action_retry">Reconnect</string>
+    <string name="action_grant_mic">Allow Microphone</string>
+    <string name="mic_permission_needed">Microphone permission is required so Nipa can hear your voice in real time.</string>
+    <string name="mic_permission_denied_permanently">Microphone access is disabled. Enable microphone permission in system settings to talk with Nipa.</string>
+    <string name="action_open_settings">App Settings</string>
+
+    <string name="cd_settings_button">Open settings panel</string>
+    <string name="cd_close_settings">Close settings panel</string>
+    <string name="cd_nipa_core_visual">Nipa AI holographic neural core</string>
+    <string name="cd_mic_connect">Tap to connect and talk to Nipa</string>
+    <string name="cd_mic_disconnect">Tap to end voice session with Nipa</string>
+    <string name="cd_waveform">Real-time voice activity waveform</string>
+
+    <string name="settings_title">Command Center</string>
+    <string name="settings_subtitle">Diagnostics &amp; Live Telemetry</string>
+
+    <string name="section_assistant">Assistant</string>
+    <string name="label_personality">Nipa Personality</string>
+    <string name="value_personality">Confident, witty &amp; expressive</string>
+    <string name="label_voice_status">Voice Profile</string>
+    <string name="label_connection_status">Connection Status</string>
+    <string name="label_voice_selector">Synthesized Voice</string>
+
+    <string name="section_audio">Audio Pipeline</string>
+    <string name="label_mic_permission">Microphone Permission</string>
+    <string name="label_speaker_status">Speaker Output</string>
+    <string name="label_input_status">Input Stream (PCM16 · 16 kHz Mono)</string>
+    <string name="label_output_status">Output Stream (PCM16 · 24 kHz)</string>
+    <string name="status_granted">Granted</string>
+    <string name="status_not_granted">Required</string>
+    <string name="status_speaker_ready">Active (24 kHz Low-Latency)</string>
+    <string name="status_speaker_streaming">Streaming Audio</string>
+    <string name="status_speaker_standby">Ready</string>
+    <string name="status_input_capturing">Capturing Live Audio</string>
+    <string name="status_input_idle">Idle</string>
+    <string name="status_output_playing">Playing Queue</string>
+    <string name="status_output_idle">Standby</string>
+
+    <string name="section_about">About</string>
+    <string name="about_title">Nipa AI Assistant</string>
+    <string name="about_subtitle">Real-time voice AI</string>
+    <string name="about_powered_by">Powered by Gemini Live (gemini-3.1-flash-live-preview)</string>
+    <string name="about_tools_badge">Safe Browser Actions Active</string>
+
+    <string name="browser_toast_opening">Opening %1$s</string>
+</resources>
